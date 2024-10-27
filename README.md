@@ -432,3 +432,45 @@ Misusing personal information is not allowed.
   - *Bad Example:* Ignoring our policies and posting inappropriate content.
   
 <br>
+
+
+
+# 11. User Protection
+
+- **No harmful activities.**  
+  You should not do anything that can seriously hurt other users.
+  - *Good Example:* Treating others with respect and kindness.
+  - *Bad Example:* Bullying or harassing other users.
+  
+<br>
+
+- **GitHub's priority is user safety.**  
+  We will always interpret our rules and solve problems in a way that protects all users.
+  - *Good Example:* Making decisions that support a safe environment for everyone.
+  - *Bad Example:* Ignoring harmful actions that affect others.
+  
+<br>
+
+- **What happens if you break the rules?**  
+  GitHub has the right to take action if you violate these rules. This can include:
+  - Suspending your account.
+  - Ending your account.
+  - Removing harmful content.
+  - *Good Example:* Taking responsibility for your actions to avoid penalties.
+  - *Bad Example:* Continuing to break the rules and facing consequences.
+  
+<br>
+
+- **Community support.**  
+  If something or someone bothers you, check our Community Guidelines for steps you can take.
+  - *Good Example:* Reporting issues to keep the community safe.
+  - *Bad Example:* Ignoring harmful behavior.
+  
+<br>
+
+- **Getting your account back.**  
+  If your account or content has been disabled and you want it back, visit our Appeal and Reinstatement page to learn how to request it.
+  - *Good Example:* Following the correct process to appeal a decision.
+  - *Bad Example:* Trying to bypass the rules to restore your account.
+  
+<br>

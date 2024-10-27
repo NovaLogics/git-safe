@@ -346,3 +346,36 @@ Misusing personal information is not allowed.
   - *Bad Example:* Ignoring requests from users about their personal information.
   
 <br>
+
+
+# 9. Excessive Bandwidth Use
+
+- **Understanding bandwidth limits.**  
+  The amount of data you can use on GitHub services depends on the features you are using.
+  - *Good Example:* Using the features without exceeding the allowed data limits.
+  - *Bad Example:* Constantly using a lot of data without considering limits.
+  
+<br>
+
+- **What happens if you use too much bandwidth?**  
+  If we see that your data usage is much higher than other users with similar features, we might:
+  - Suspend your account.
+  - Slow down your file hosting.
+  - Limit what you can do until you reduce your data usage.
+  - *Good Example:* Adjusting your usage to stay within limits.
+  - *Bad Example:* Ignoring data limits and continuing high usage.
+  
+<br>
+
+- **Deleting repositories if necessary.**  
+  We also have the right to delete your repositories if they are causing too much strain on our system, but we will give you notice before doing this.
+  - *Good Example:* Keeping your repositories within reasonable limits to avoid issues.
+  - *Bad Example:* Not managing your repository size and risking deletion.
+  
+<br>
+
+- **Learn about data use.**  
+  For help on how to use large files in your repositories, check out "About large files on GitHub."  
+  For details on specific data limits for features, see the GitHub Additional Product Terms.
+  
+<br>

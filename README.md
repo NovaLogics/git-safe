@@ -9,24 +9,24 @@ GitHub Rules and Policies <br> - A User Friendly Guide -
 GitHub is a place where people work together and support each other. To keep things friendly, it’s important to follow GitHub's Acceptable Use Policies. Here’s a simple list of the main rules you should know to stay out of trouble and avoid getting your account *flagged* or *suspended*.
 
 <div align="center">
-<img src="./assets/images/github-rules-banner.png" />
+    <img src="./assets/images/github-rules-banner.png" />
 </div>
 
 <br>
 
-# 1. Compliance with Laws and Regulations
+## 1. Compliance with Laws and Regulations
 
-- **Follow the rules.**  
+### 1.1 Follow the rules.
   You must use Github service in a way that follows all laws and rules that apply to you.
-  - *Good Example:* Using github service to share legal content.
-  - *Bad Example:* Using github service to share illegal content.
+  - ✓ `Best Practice :` Using github service to share legal content.
+  - ✗ `Worst Practice:` Using github service to share illegal content.
 
 <br>
 
-- **Stay updated.**  
+### 1.2 Stay updated. 
   Github's rules can change over time, so make sure to check them regularly.
-  - *Good Example:* Reviewing the Acceptable Use Policies often.
-  - *Bad Example:* Ignoring updates and continuing to use the service incorrectly.
+  - ✓ `Best Practice :` Reviewing the Acceptable Use Policies often.
+  - ✗ `Worst Practice:` Ignoring updates and continuing to use the service incorrectly.
 
 <br>
 

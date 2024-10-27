@@ -218,3 +218,31 @@ We do not allow any content or activities on GitHub that are:
   
 <br>
 
+
+# 5. Site Access and Safety
+
+We do not allow any content or activities on GitHub that:
+
+- **Support illegal attacks or malware campaigns.**  
+  This means using GitHub to help with harmful activities, like spreading viruses or organizing attacks that damage systems.
+  - *Good Example:* Using GitHub to share safe and useful software.
+  - *Bad Example:* Using GitHub to deliver harmful programs or organize attacks on other networks.
+  
+<br>
+
+- **Disrupt services or gain unauthorized access.**  
+  This means trying to break into systems or disrupt services without permission.
+  - *Good Example:* Accessing your own accounts and projects safely.
+  - *Bad Example:* Attempting to access someone else's account or network without permission.
+  
+<br>
+
+- **Participating in bug bounty programs.**  
+  Activities allowed under programs like the GitHub Bug Bounty program are not considered unauthorized as long as they only affect the organization that allows them.
+  - *Good Example:* Reporting a bug in a project to help the organization improve security.
+  - *Bad Example:* Exploiting a bug to cause harm to the organization or other users.
+  
+<br>
+
+
+

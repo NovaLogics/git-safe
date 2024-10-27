@@ -127,7 +127,8 @@ GitHub will not accept any content or activities that:
 GitHub will not accept any content or activities that:
 
 ### 3.1 ‣ Infringe on anyone's rights
-  This means you cannot use someone else's ideas or work without permission. This includes patents, trademarks, copyrights, and other legal rights.
+  This means you cannot use someone else's ideas or work without permission.  
+  This includes patents, trademarks, copyrights, and other legal rights.
   - ✓ `Best Practice :` Creating original code that you own.
 
   - ✗ `Worst Practice:` Copying someone else's code and claiming it as your own.
@@ -161,85 +162,98 @@ GitHub will not accept any content or activities that:
 <br>
 
 
-# 4. Spam and Inauthentic Activity on GitHub
+## 4. Spam and Inauthentic Activity on GitHub
 
-We do not allow any content or activities on GitHub that are:
+GitHub will not accept any content or activities that:
 
-- **Automated excessive bulk activity and fake interactions.**  
+### 4.1 ‣ Automated excessive bulk activity and fake interactions
   This means any activity that uses automated tools to spam or create fake accounts is not allowed.
-  - *Good Example:* Posting useful updates manually.
-  - *Bad Example:* Using a bot to send many repetitive messages.
+  - ✓ `Best Practice :` Posting useful updates manually.
+
+  - ✗ `Worst Practice:` Using a bot to send many repetitive messages.
   
 <br>
 
-- **Spamming.**  
+### 4.2 ‣ Spamming 
   This means sending many unwanted messages or promotions that annoy users.
-  - *Good Example:* Sharing helpful information about your project.
-  - *Bad Example:* Sending the same advertisement over and over again.
+  - ✓ `Best Practice :` Sharing helpful information about your project.
+  
+  - ✗ `Worst Practice:` Sending the same advertisement over and over again.
   
 <br>
 
-- **Cryptocurrency mining.**  
+### 4.3 ‣ Cryptocurrency mining
   This means using GitHub to mine cryptocurrency, which is not allowed.
-  - *Good Example:* Using GitHub for programming projects.
-  - *Bad Example:* Trying to mine cryptocurrency using GitHub resources.
+  - ✓ `Best Practice :` Using GitHub for programming projects.
+
+  - ✗ `Worst Practice:` Trying to mine cryptocurrency using GitHub resources.
   
 <br>
 
-- **Bulk distribution of promotions and ads.**  
+### 4.4 ‣ Bulk distribution of promotions and ads
   This means sharing large amounts of promotions or advertisements that break GitHub rules.
-  - *Good Example:* Promoting your own legitimate project once in a relevant discussion.
-  - *Bad Example:* Flooding discussions with advertisements for products.
+  - ✓ `Best Practice :` Promoting your own legitimate project once in a relevant discussion.
+
+  - ✗ `Worst Practice:` Flooding discussions with advertisements for products.
   
 <br>
 
-- **Inauthentic interactions.**  
+### 4.5 ‣ Inauthentic interactions 
   This means creating fake accounts or using automated activity to interact with others.
-  - *Good Example:* Engaging with real users and contributing honestly.
-  - *Bad Example:* Creating fake accounts to inflate your project's popularity.
+  - ✓ `Best Practice :` Engaging with real users and contributing honestly.
+
+  - ✗ `Worst Practice:` Creating fake accounts to inflate your project's popularity.
   
 <br>
 
-- **Rank abuse.**  
+### 4.6 ‣ Rank abuse 
   This means using automated tools to unfairly boost rankings or visibility.
-  - *Good Example:* Gaining followers naturally by engaging with the community.
-  - *Bad Example:* Using a bot to automatically star or follow projects.
+  - ✓ `Best Practice :` Gaining followers naturally by engaging with the community.
+
+  - ✗ `Worst Practice:` Using a bot to automatically star or follow projects.
   
 <br>
 
-- **Creating or joining fake markets.**  
+### 4.7 ‣ Creating or joining fake markets
   This means taking part in activities that promote fake or misleading practices.
-  - *Good Example:* Participating in genuine discussions about technology.
-  - *Bad Example:* Joining a group that spreads fake information for profit.
+  - ✓ `Best Practice :` Participating in genuine discussions about technology.
+
+  - ✗ `Worst Practice:` Joining a group that spreads fake information for profit.
   
 <br>
 
-- **Using GitHub to spread abuse on other platforms.**  
+### 4.8 ‣ Using GitHub to spread abuse on other platforms  
   This means using GitHub to promote harmful actions on other sites.
-  - *Good Example:* Using GitHub to share knowledge and resources.
-  - *Bad Example:* Using GitHub to organize harassment on another platform.
+  - ✓ `Best Practice :` Using GitHub to share knowledge and resources.
+
+  - ✗ `Worst Practice:` Using GitHub to organize harassment on another platform.
   
 <br>
 
-- **Phishing or attempted phishing.**  
+### 4.9 ‣ Phishing or attempted phishing
   This means trying to trick people into giving personal information or passwords.
-  - *Good Example:* Keeping your own information secure and respecting others' privacy.
-  - *Bad Example:* Sending fake messages to collect usernames or passwords.
+  - ✓ `Best Practice :` Keeping your own information secure and respecting others' privacy.
+
+  - ✗ `Worst Practice:` Sending fake messages to collect usernames or passwords.
   
 <br>
 
-- **Excessive automated activity that burdens our servers.**  
-  This means using automated tools to overload GitHub's servers or send unwanted ads.
-  - *Good Example:* Using GitHub for normal project development.
-  - *Bad Example:* Using bots to send spam or create excessive traffic.
+### 4.10 ‣ Excessive automated activity that burdens our servers
+  This means using automated tools to overload GitHub servers or send unwanted ads.
+  - ✓ `Best Practice :` Using GitHub for normal project development.
+
+  - ✗ `Worst Practice:` Using bots to send spam or create excessive traffic.
   
 <br>
 
-- **Incentivized inauthentic engagement.**  
+### 4.11 ‣ Incentivized inauthentic engagement
   This means offering rewards like cryptocurrency or gifts to encourage fake interactions.
-  - *Good Example:* Sharing your project because you believe in it, not for rewards.
-  - *Bad Example:* Offering tokens or gifts to get people to follow your project.
+  - ✓ `Best Practice :` Sharing your project because you believe in it, not for rewards.
+
+  - ✗ `Worst Practice:` Offering tokens or gifts to get people to follow your project.
   
+<hr>
+
 <br>
 
 

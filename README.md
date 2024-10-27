@@ -137,5 +137,84 @@ We do not allow any content or activities on GitHub that:
 
 
 
+# 4. Spam and Inauthentic Activity on GitHub
 
+We do not allow any content or activities on GitHub that are:
+
+- **Automated excessive bulk activity and fake interactions.**  
+  This means any activity that uses automated tools to spam or create fake accounts is not allowed.
+  - *Good Example:* Posting useful updates manually.
+  - *Bad Example:* Using a bot to send many repetitive messages.
+  
+<br>
+
+- **Spamming.**  
+  This means sending many unwanted messages or promotions that annoy users.
+  - *Good Example:* Sharing helpful information about your project.
+  - *Bad Example:* Sending the same advertisement over and over again.
+  
+<br>
+
+- **Cryptocurrency mining.**  
+  This means using GitHub to mine cryptocurrency, which is not allowed.
+  - *Good Example:* Using GitHub for programming projects.
+  - *Bad Example:* Trying to mine cryptocurrency using GitHub resources.
+  
+<br>
+
+- **Bulk distribution of promotions and ads.**  
+  This means sharing large amounts of promotions or advertisements that break GitHub rules.
+  - *Good Example:* Promoting your own legitimate project once in a relevant discussion.
+  - *Bad Example:* Flooding discussions with advertisements for products.
+  
+<br>
+
+- **Inauthentic interactions.**  
+  This means creating fake accounts or using automated activity to interact with others.
+  - *Good Example:* Engaging with real users and contributing honestly.
+  - *Bad Example:* Creating fake accounts to inflate your project's popularity.
+  
+<br>
+
+- **Rank abuse.**  
+  This means using automated tools to unfairly boost rankings or visibility.
+  - *Good Example:* Gaining followers naturally by engaging with the community.
+  - *Bad Example:* Using a bot to automatically star or follow projects.
+  
+<br>
+
+- **Creating or joining fake markets.**  
+  This means taking part in activities that promote fake or misleading practices.
+  - *Good Example:* Participating in genuine discussions about technology.
+  - *Bad Example:* Joining a group that spreads fake information for profit.
+  
+<br>
+
+- **Using GitHub to spread abuse on other platforms.**  
+  This means using GitHub to promote harmful actions on other sites.
+  - *Good Example:* Using GitHub to share knowledge and resources.
+  - *Bad Example:* Using GitHub to organize harassment on another platform.
+  
+<br>
+
+- **Phishing or attempted phishing.**  
+  This means trying to trick people into giving personal information or passwords.
+  - *Good Example:* Keeping your own information secure and respecting others' privacy.
+  - *Bad Example:* Sending fake messages to collect usernames or passwords.
+  
+<br>
+
+- **Excessive automated activity that burdens our servers.**  
+  This means using automated tools to overload GitHub's servers or send unwanted ads.
+  - *Good Example:* Using GitHub for normal project development.
+  - *Bad Example:* Using bots to send spam or create excessive traffic.
+  
+<br>
+
+- **Incentivized inauthentic engagement.**  
+  This means offering rewards like cryptocurrency or gifts to encourage fake interactions.
+  - *Good Example:* Sharing your project because you believe in it, not for rewards.
+  - *Bad Example:* Offering tokens or gifts to get people to follow your project.
+  
+<br>
 

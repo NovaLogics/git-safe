@@ -134,6 +134,14 @@ GitHub will not accept any content or activities that:
 
   - ✗ `Worst Practice:` Spamming unrelated content or repeatedly disrupting conversations harms the user experience.
   
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -174,6 +182,14 @@ GitHub will not accept any content or activities that:
 
   - ✗ `Worst Practice:` Posting someone else's private information online without their consent.
   
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -269,6 +285,14 @@ GitHub will not accept any content or activities that:
 
   - ✗ `Worst Practice:` Offering tokens or gifts to get people to follow your project.
   
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -300,6 +324,14 @@ GitHub will not accept any content or activities that:
 
   - ✗ `Worst Practice:` Exploiting a bug to cause harm to the organization or other users.
   
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -332,6 +364,14 @@ You cannot do the following with GitHub services:
 
   - ✗ `Worst Practice:` Using GitHub's services to create something harmful or unfair to others.
   
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -384,6 +424,14 @@ You **CANNOT** use information from GitHub services for:
 
   - ✗ `Worst Practice:` Sending unsolicited emails to users or selling their information.
 
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -425,6 +473,14 @@ Misusing personal information is not allowed.
   - ✗ `Worst Practice:` Ignoring requests from users about their personal information.
   
 
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -466,10 +522,17 @@ Misusing personal information is not allowed.
   For details on specific data limits for features, see the GitHub Additional Product Terms.
   
 
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
-
 
 
 
@@ -530,6 +593,14 @@ Misusing personal information is not allowed.
  - ✗ `Worst Practice:` Ignoring our policies and posting inappropriate content.
   
 
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 <hr>
 
 <br>
@@ -579,4 +650,14 @@ Misusing personal information is not allowed.
 
  - ✗ `Worst Practice:`  Trying to bypass the rules to restore your account.
   
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
 <br>

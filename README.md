@@ -122,38 +122,43 @@ GitHub will not accept any content or activities that:
 <br>
 
 
-# 3. Intellectual Property, Authenticity, and Private Information
+## 3. Intellectual Property, Authenticity, and Private Information
 
-We do not allow any content or activities on GitHub that:
+GitHub will not accept any content or activities that:
 
-- **Infringe on anyone's rights.**  
+### 3.1 ‣ Infringe on anyone's rights
   This means you cannot use someone else's ideas or work without permission. This includes patents, trademarks, copyrights, and other legal rights.
-  - *Good Example:* Creating original code that you own.
-  - *Bad Example:* Copying someone else's code and claiming it as your own.
+  - ✓ `Best Practice :` Creating original code that you own.
+
+  - ✗ `Worst Practice:` Copying someone else's code and claiming it as your own.
   
 <br>
 
-- **Unlawfully share product keys or software to bypass checks.**  
+### 3.2 ‣ Unlawfully share product keys or software to bypass checks
   This means you cannot share illegal product keys, or software that helps others use products without paying for them.
-  - *Good Example:* Using software that you have purchased legally.
-  - *Bad Example:* Sharing a product key that you are not allowed to share.
+  - ✓ `Best Practice :` Using software that you have purchased legally.
+
+  - ✗ `Worst Practice:` Sharing a product key that you are not allowed to share.
   
 <br>
 
-- **Impersonate someone else.**  
+### 3.3 ‣ Impersonate someone else. 
   This means you cannot pretend to be someone else, including GitHub employees or other users. You must not lie about who you are or what your site is about.
-  - *Good Example:* Using your real name and providing accurate information about yourself.
-  - *Bad Example:* Pretending to be a GitHub employee to gain trust.
+  - ✓ `Best Practice :` Using your real name and providing accurate information about yourself.
+
+  - ✗ `Worst Practice:` Pretending to be a GitHub employee to gain trust.
   
 <br>
 
-- **Violate someone else's privacy.**  
+### 3.4 ‣ Violate someone else's privacy. 
   This means you cannot share personal information about others without their permission, like their address, phone number, or email.
-  - *Good Example:* Keeping your own personal information private and only sharing it with consent.
-  - *Bad Example:* Posting someone else's private information online without their consent.
-  
-<br>
+  - ✓ `Best Practice :` Keeping your own personal information private and only sharing it with consent.
 
+  - ✗ `Worst Practice:` Posting someone else's private information online without their consent.
+  
+<hr>
+
+<br>
 
 
 # 4. Spam and Inauthentic Activity on GitHub

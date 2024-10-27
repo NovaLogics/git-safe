@@ -257,30 +257,36 @@ GitHub will not accept any content or activities that:
 <br>
 
 
-# 5. Site Access and Safety
+## 5. Site Access and Safety
 
-We do not allow any content or activities on GitHub that:
+GitHub will not accept any content or activities that:
 
-- **Support illegal attacks or malware campaigns.**  
+### 5.1 ‣ Support illegal attacks or malware campaigns 
   This means using GitHub to help with harmful activities, like spreading viruses or organizing attacks that damage systems.
-  - *Good Example:* Using GitHub to share safe and useful software.
-  - *Bad Example:* Using GitHub to deliver harmful programs or organize attacks on other networks.
+  - ✓ `Best Practice :` Using GitHub to share safe and useful software.
+
+  - ✗ `Worst Practice:` Using GitHub to deliver harmful programs or organize attacks on other networks.
   
 <br>
 
-- **Disrupt services or gain unauthorized access.**  
+### 5.1 ‣ Disrupt services or gain unauthorized access  
   This means trying to break into systems or disrupt services without permission.
-  - *Good Example:* Accessing your own accounts and projects safely.
-  - *Bad Example:* Attempting to access someone else's account or network without permission.
+  - ✓ `Best Practice :` Accessing your own accounts and projects safely.
+
+  - ✗ `Worst Practice:` Attempting to access someone else's account or network without permission.
   
 <br>
 
-- **Participating in bug bounty programs.**  
+### 5.3 ‣ Participating in bug bounty programs
   Activities allowed under programs like the GitHub Bug Bounty program are not considered unauthorized as long as they only affect the organization that allows them.
-  - *Good Example:* Reporting a bug in a project to help the organization improve security.
-  - *Bad Example:* Exploiting a bug to cause harm to the organization or other users.
+  - ✓ `Best Practice :` Reporting a bug in a project to help the organization improve security.
+
+  - ✗ `Worst Practice:` Exploiting a bug to cause harm to the organization or other users.
   
+<hr>
+
 <br>
+
 
 
 # 6. Services Usage Limits

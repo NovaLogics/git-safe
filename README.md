@@ -320,48 +320,57 @@ You cannot do the following with GitHub services:
 <br>
 
 
-# 7. Information Usage Restrictions
+## 7. Information Usage Restrictions
 
-You can use information from GitHub's services for these reasons:
+You **CAN** use information from GitHub services for these reasons:
 
-- **Researchers can use public information.**  
+### 7.1 ‣ Researchers can use public information
   If you are a researcher, you can use non-personal public information for research, but any results should be freely accessible to everyone.
-  - *Good Example:* Publishing research that anyone can read and learn from.
-  - *Bad Example:* Keeping research findings hidden behind a paywall.
+  - ✓ `Best Practice :` Publishing research that anyone can read and learn from.
+
+  - ✗ `Worst Practice:` Keeping research findings hidden behind a paywall.
   
 <br>
 
-- **Archivists can use public information.**  
+### 7.2 ‣ Archivists can use public information
   If you are an archivist, you can use public information to keep records for historical purposes.
-  - *Good Example:* Collecting and preserving public data for future reference.
-  - *Bad Example:* Misusing archived information for commercial gain.
+  - ✓ `Best Practice :` Collecting and preserving public data for future reference.
+
+  - ✗ `Worst Practice:` Misusing archived information for commercial gain.
   
 <br>
 
-- **Understanding scraping.**  
-  Scraping means using automated tools like bots to collect information from GitHub's services. However, using GitHub's API to collect information is not considered scraping. You can find more details in Section H of GitHub's Terms of Service.
-  - *Good Example:* Using our API to gather data in a respectful way.
-  - *Bad Example:* Using a bot to gather information without following the rules.
+### 7.3 ‣ Understanding scraping
+  Scraping means using automated tools like bots to collect information from GitHub services.  
+  However, using GitHub's API to collect information is not considered scraping.  
+  You can find more details in [Section H](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#h-api-terms) of GitHub's Terms of Service.
+  - ✓ `Best Practice :` Using our API to gather data in a respectful way.
+
+  - ✗ `Worst Practice:` Using a bot to gather information without following the rules.
   
 <br>
 
-You **cannot** use information from GitHub's services for:
+### 7.4 ‣ Following the GitHub Privacy Statement  
+  You must always follow the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) when using any information.
+  - ✓ `Best Practice :` Respecting user privacy when using their data.
+
+  - ✗ `Worst Practice:` Ignoring privacy rules and misusing personal data.
+
   
 <br>
 
-- **Spamming.**  
+You **CANNOT** use information from GitHub services for:
+
+### Spamming 
   This means you cannot use the information to send unwanted emails or sell personal information, like to recruiters or job boards.
-  - *Good Example:* Using information responsibly to communicate with users who are interested.
-  - *Bad Example:* Sending unsolicited emails to users or selling their information.
-  
+  - ✓ `Best Practice :` Using information responsibly to communicate with users who are interested.
+
+  - ✗ `Worst Practice:` Sending unsolicited emails to users or selling their information.
+
+<hr>
+
 <br>
 
-- **Following the GitHub Privacy Statement.**  
-  You must always follow the GitHub Privacy Statement when using any information.
-  - *Good Example:* Respecting user privacy when using their data.
-  - *Bad Example:* Ignoring privacy rules and misusing personal data.
-  
-<br>
 
 
 # 8. Privacy

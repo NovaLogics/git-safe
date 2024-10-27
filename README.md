@@ -373,37 +373,45 @@ You **CANNOT** use information from GitHub services for:
 
 
 
-# 8. Privacy
+## 8. Privacy
 
 Misusing personal information is not allowed.
 
-- **Follow the GitHub Privacy Statement.**  
-  If you collect any data from GitHub's services, you must follow the GitHub Privacy Statement, especially when it comes to personal information.
-  - *Good Example:* Collecting data in a way that respects users' privacy.
-  - *Bad Example:* Ignoring privacy rules and mishandling personal data.
+### 8.1 ‣ Follow the GitHub Privacy Statement
+  If you collect any data from GitHub services, you must follow the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), especially when it comes to personal information.
+  - ✓ `Best Practice :` Collecting data in a way that respects users' privacy.
+
+  - ✗ `Worst Practice:` Ignoring privacy rules and mishandling personal data.
   
 <br>
 
-- **Use personal information only as allowed.**  
+### 8.2 ‣ Use personal information only as allowed 
   If you collect personal information, you agree to use it only for the reason the user allowed.
-  - *Good Example:* Using personal information to provide requested services.
-  - *Bad Example:* Using personal information for unrelated purposes without permission.
+  - ✓ `Best Practice :` Using personal information to provide requested services.
+
+  - ✗ `Worst Practice:` Using personal information for unrelated purposes without permission.
   
 <br>
 
-- **Keep personal information safe.**  
-  You agree to take reasonable steps to protect any personal information you collect from GitHub's services.
-  - *Good Example:* Using security measures to protect personal data.
-  - *Bad Example:* Storing personal information without any protection.
+### 8.3 ‣ Keep personal information safe 
+  You agree to take reasonable steps to protect any personal information you collect from GitHub services.
+  - ✓ `Best Practice :` Using security measures to protect personal data.
+
+  - ✗ `Worst Practice:` Storing personal information without any protection.
   
 <br>
 
-- **Respond to complaints and requests.**  
+### 8.4 ‣ Respond to complaints and requests 
   You agree to quickly address any complaints, removal requests, or "do not contact" requests from GitHub or other users.
-  - *Good Example:* Quickly removing someone's personal information when they ask.
-  - *Bad Example:* Ignoring requests from users about their personal information.
+  - ✓ `Best Practice :` Quickly removing someone's personal information when they ask.
+
+  - ✗ `Worst Practice:` Ignoring requests from users about their personal information.
   
+
+<hr>
+
 <br>
+
 
 
 # 9. Excessive Bandwidth Use

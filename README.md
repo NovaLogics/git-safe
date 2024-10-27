@@ -456,55 +456,65 @@ Misusing personal information is not allowed.
 
 
 
-# 10. Advertising on GitHub
+## 10. Advertising on GitHub
 
-- **Overview of advertising rules.**  
-  GitHub generally allow advertising on GitHub, but expect GitHub users to follow certain rules to keep GitHub from becoming a place full of spam.
-  - *Good Example:* Promoting your project without overwhelming others with ads.
-  - *Bad Example:* Posting lots of advertisements that annoy users.
+### 10.1 ‣ Overview of advertising rules 
+ GitHub generally allows advertising on GitHub, but expects GitHub users to follow certain rules to prevent GitHub from becoming a place full of spam.
+  - ✓ `Best Practice :` Promoting your project without overwhelming others with ads.
+
+ - ✗ `Worst Practice:` Posting lots of advertisements that annoy users.
   
 <br>
 
-- **Focus on your content.**  
+### 10.2 ‣ Focus on your content 
   If you want to promote your content by sharing supporters' names or logos, remember that the main purpose of what you post should not just be advertising. This rule applies to everything you post, including Pages, Packages, repositories, and other parts of the service.
-  - *Good Example:* Sharing logos related to your project while keeping the focus on your project itself.
-  - *Bad Example:* Filling your account with ads instead of meaningful project content.
+  - ✓ `Best Practice :` Sharing logos related to your project while keeping the focus on your project itself.
+
+ - ✗ `Worst Practice:` Filling your account with ads instead of meaningful project content.
   
 <br>
 
-- **Where to include promotional material.**  
+### 10.3 ‣ Where to include promotional material
   You can include images, links, and promotional text in the README or project description of your account, but they should be connected to your project.
-  - *Good Example:* Adding a link to a related website in your project description.
-  - *Bad Example:* Using your project description to advertise unrelated products.
+  - ✓ `Best Practice :` Adding a link to a related website in your project description.
+
+ - ✗ `Worst Practice:`  Using your project description to advertise unrelated products.
   
 <br>
 
-- **No advertising on others’ accounts.**  
+### 10.4 ‣ No advertising on others’ accounts  
   You cannot promote or advertise in other users' accounts, like posting unwanted ads in issue discussions.
-  - *Good Example:* Keeping your promotions to your own account.
-  - *Bad Example:* Posting ads in someone else’s project discussions.
+  - ✓ `Best Practice :` Keeping your promotions to your own account.
+
+ - ✗ `Worst Practice:` Posting ads in someone else’s project discussions.
   
 <br>
 
-- **Follow the rules on illegal content.**  
-  You must not promote or share content that is illegal or against GitHub's rules, like spamming or get-rich-quick schemes.
-  - *Good Example:* Sharing legal and useful information.
-  - *Bad Example:* Promoting scams or misleading information.
+### 10.5 ‣ Follow the rules on illegal content
+  You must not promote or share content that is illegal or against GitHub rules, like spamming or get-rich-quick schemes.
+  - ✓ `Best Practice :` Sharing legal and useful information.
+
+ - ✗ `Worst Practice:` Promoting scams or misleading information.
   
 <br>
 
-- **Responsibility for your promotions.**  
+### 10.6 ‣ Responsibility for your promotions
   If you post any ads, you are responsible for following all laws and regulations, including the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials.
-  - *Good Example:* Clearly stating if you are getting paid for a promotion.
-  - *Bad Example:* Hiding the fact that you are being paid for a promotion.
+  - ✓ `Best Practice :` Clearly stating if you are getting paid for a promotion.
+
+ - ✗ `Worst Practice:` Hiding the fact that you are being paid for a promotion.
   
 <br>
 
-- **Removal of inappropriate ads.**  
-  We can remove any ads or promotional materials that violate our rules or policies at our discretion.
-  - *Good Example:* Keeping your ads respectful and relevant.
-  - *Bad Example:* Ignoring our policies and posting inappropriate content.
+### 10.7 ‣ Removal of inappropriate ads
+  We can remove any ads or promotional materials that violate GitHub rules or policies at GitHub discretion.
+  - ✓ `Best Practice :` Keeping your ads respectful and relevant.
+
+ - ✗ `Worst Practice:` Ignoring our policies and posting inappropriate content.
   
+
+<hr>
+
 <br>
 
 

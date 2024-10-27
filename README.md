@@ -271,3 +271,45 @@ You cannot do the following with our services:
 <br>
 
 
+# 7. Information Usage Restrictions
+
+You can use information from GitHub's services for these reasons:
+
+- **Researchers can use public information.**  
+  If you are a researcher, you can use non-personal public information for research, but any results should be freely accessible to everyone.
+  - *Good Example:* Publishing research that anyone can read and learn from.
+  - *Bad Example:* Keeping research findings hidden behind a paywall.
+  
+<br>
+
+- **Archivists can use public information.**  
+  If you are an archivist, you can use public information to keep records for historical purposes.
+  - *Good Example:* Collecting and preserving public data for future reference.
+  - *Bad Example:* Misusing archived information for commercial gain.
+  
+<br>
+
+- **Understanding scraping.**  
+  Scraping means using automated tools like bots to collect information from GitHub's services. However, using GitHub's API to collect information is not considered scraping. You can find more details in Section H of GitHub's Terms of Service.
+  - *Good Example:* Using our API to gather data in a respectful way.
+  - *Bad Example:* Using a bot to gather information without following the rules.
+  
+<br>
+
+You **cannot** use information from GitHub's services for:
+  
+<br>
+
+- **Spamming.**  
+  This means you cannot use the information to send unwanted emails or sell personal information, like to recruiters or job boards.
+  - *Good Example:* Using information responsibly to communicate with users who are interested.
+  - *Bad Example:* Sending unsolicited emails to users or selling their information.
+  
+<br>
+
+- **Following the GitHub Privacy Statement.**  
+  You must always follow the GitHub Privacy Statement when using any information.
+  - *Good Example:* Respecting user privacy when using their data.
+  - *Bad Example:* Ignoring privacy rules and misusing personal data.
+  
+<br>

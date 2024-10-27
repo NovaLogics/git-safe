@@ -289,29 +289,34 @@ GitHub will not accept any content or activities that:
 
 
 
-# 6. Services Usage Limits
+## 6. Services Usage Limits
 
-You cannot do the following with our services:
+You cannot do the following with GitHub services:
 
-- **Reproduce or copy GitHub's services.**  
+### 6.1 ‣ Reproduce or copy GitHub services
   This means you can't make copies of GitHub's services for yourself or others.
-  - *Good Example:* Using GitHub to create your own projects.
-  - *Bad Example:* Copying our services and selling them to others.
+  - ✓ `Best Practice :` Using GitHub to create your own projects.
+
+  - ✗ `Worst Practice:` Copying our services and selling them to others.
   
 <br>
 
-- **Sell or resell GitHub's services.**  
+### 6.2 ‣ Sell or resell GitHub's services 
   This means you can't sell access to GitHub's services or use them to make money without permission.
-  - *Good Example:* Using GitHub for your personal projects.
-  - *Bad Example:* Charging others to use GitHub's services without GitHub's permission.
+  - ✓ `Best Practice :` Using GitHub for your personal projects.
+
+  - ✗ `Worst Practice:` Charging others to use GitHub's services without GitHub's permission.
   
 <br>
 
-- **Exploit our services.**  
+### 6.3 ‣ Exploit GitHub's services 
   This means you can't take advantage of GitHub's services in ways that are not allowed.
-  - *Good Example:* Contributing to open-source projects in a helpful way.
-  - *Bad Example:* Using GitHub's services to create something harmful or unfair to others.
+  - ✓ `Best Practice :` Contributing to open-source projects in a helpful way.
+
+  - ✗ `Worst Practice:` Using GitHub's services to create something harmful or unfair to others.
   
+<hr>
+
 <br>
 
 

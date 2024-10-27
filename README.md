@@ -313,3 +313,36 @@ You **cannot** use information from GitHub's services for:
   - *Bad Example:* Ignoring privacy rules and misusing personal data.
   
 <br>
+
+
+# 8. Privacy
+
+Misusing personal information is not allowed.
+
+- **Follow the GitHub Privacy Statement.**  
+  If you collect any data from GitHub's services, you must follow the GitHub Privacy Statement, especially when it comes to personal information.
+  - *Good Example:* Collecting data in a way that respects users' privacy.
+  - *Bad Example:* Ignoring privacy rules and mishandling personal data.
+  
+<br>
+
+- **Use personal information only as allowed.**  
+  If you collect personal information, you agree to use it only for the reason the user allowed.
+  - *Good Example:* Using personal information to provide requested services.
+  - *Bad Example:* Using personal information for unrelated purposes without permission.
+  
+<br>
+
+- **Keep personal information safe.**  
+  You agree to take reasonable steps to protect any personal information you collect from GitHub's services.
+  - *Good Example:* Using security measures to protect personal data.
+  - *Bad Example:* Storing personal information without any protection.
+  
+<br>
+
+- **Respond to complaints and requests.**  
+  You agree to quickly address any complaints, removal requests, or "do not contact" requests from GitHub or other users.
+  - *Good Example:* Quickly removing someone's personal information when they ask.
+  - *Bad Example:* Ignoring requests from users about their personal information.
+  
+<br>

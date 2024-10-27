@@ -14,14 +14,93 @@ GitHub is a place where people work together and support each other. To keep thi
 **Your Responsibility:**  
 Make sure you use GitHub in a way that follows all laws and rules.
 
-## Key Points:
+### Key Points:
 - Always use GitHub according to the law.
 - Follow GitHub’s Acceptable Use Policies.
 - These policies may change over time, so stay updated.
 
-## Good Example:
+### Good Example:
 - **Using GitHub for a School Project:** You create a public repository to share your school project code, and you only use your own code or code you have permission to use.
 
-## Bad Example:
+### Bad Example:
 - **Sharing Copyrighted Material:** You upload a software project that includes code from another developer without asking for permission, which is against copyright laws.
+
+<br>
+
+## 2. User Safety
+
+GitHub do not allow any content or activities that:
+
+- **Are against the law or promote illegal actions.**  
+  This means any activities or content that break local, national, or international laws. Using GitHub for illegal things is not allowed.
+  - *Good Example:* Sharing code for a legal project shows responsible use.
+  - *Bad Example:* Posting instructions for hacking or illegal activities breaks the law.
+  
+<br>
+
+
+- **Are sexually inappropriate or involve sexual exploitation or abuse, especially of minors.**  
+  Content that is sexually explicit or takes advantage of people, especially children, is not allowed and can cause harm.
+  - *Good Example:* Talking about programming topics respectfully helps keep the environment safe.
+  - *Bad Example:* Sharing explicit content or discussing sexual abuse is harmful and unacceptable.
+  
+<br>
+
+
+- **Harm someone’s reputation, mislead, or are dishonest.**  
+  Activities that hurt others' reputations or share false information can damage trust in the community.
+  - *Good Example:* Giving honest feedback on a project helps everyone improve.
+  - *Bad Example:* Spreading false rumors about another user damages trust and respect.
+  
+<br>
+
+
+- **Are discriminatory or abusive toward anyone.**  
+  Any form of unfair treatment or abuse based on personal traits is harmful and not allowed.
+  - *Good Example:* Supporting all users, no matter their background, promotes inclusivity.
+  - *Bad Example:* Making offensive comments based on race, gender, or beliefs is disrespectful.
+  
+<br>
+
+
+- **Provide false or misleading information that can harm the public.**  
+  Sharing incorrect information can lead to misunderstandings and harm to the community.
+  - *Good Example:* Sharing accurate health information keeps the community informed.
+  - *Bad Example:* Spreading fake news about a health issue can cause harm.
+  
+<br>
+
+
+- **Harass or mistreat others, including GitHub staff and users.**  
+  Harassment or mistreatment goes against the friendly spirit of GitHub and creates a bad environment.
+  - *Good Example:* Having constructive discussions helps everyone feel welcome.
+  - *Bad Example:* Threatening or insulting another user makes the environment toxic.
+  
+<br>
+
+
+- **Threaten or promote violence against anyone.**  
+  Any content that encourages violence or threatens others is not allowed.
+  - *Good Example:* Supporting peaceful solutions helps everyone get along.
+  - *Bad Example:* Encouraging violence against a specific group is harmful and not accepted.
+  
+<br>
+
+
+- **Unnecessarily show or glorify violence.**  
+  Content that shows violence for shock value is not acceptable, as it can desensitize others and create negativity.
+  - *Good Example:* Talking about the effects of violence in a respectful way can help raise awareness.
+  - *Bad Example:* Posting graphic images of violence just to shock people is inappropriate.
+  
+<br>
+
+
+- **Are not related to GitHub's purpose or disrupt others’ experiences.**  
+  Content that does not fit GitHub's goals or that disrupts users takes away from the overall experience of the platform.
+  - *Good Example:* Joining relevant discussions and projects supports the community's goals.
+  - *Bad Example:* Spamming unrelated content or repeatedly disrupting conversations harms the user experience.
+  
+<br>
+
+
 

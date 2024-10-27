@@ -414,37 +414,45 @@ Misusing personal information is not allowed.
 
 
 
-# 9. Excessive Bandwidth Use
+## 9. Excessive Bandwidth Use
 
-- **Understanding bandwidth limits.**  
+### 9.1 ‣ Understanding bandwidth limits  
   The amount of data you can use on GitHub services depends on the features you are using.
-  - *Good Example:* Using the features without exceeding the allowed data limits.
-  - *Bad Example:* Constantly using a lot of data without considering limits.
+  - ✓ `Best Practice :` Using the features without exceeding the allowed data limits.
+
+  - ✗ `Worst Practice:` Constantly using a lot of data without considering limits.
   
 <br>
 
-- **What happens if you use too much bandwidth?**  
-  If we see that your data usage is much higher than other users with similar features, we might:
+### 9.2 ‣ What happens if you use too much bandwidth?  
+  If GitHub sees that your data usage is much higher than other users with similar features, they might:
   - Suspend your account.
   - Slow down your file hosting.
   - Limit what you can do until you reduce your data usage.
-  - *Good Example:* Adjusting your usage to stay within limits.
-  - *Bad Example:* Ignoring data limits and continuing high usage.
+
+  - ✓ `Best Practice :` Adjusting your usage to stay within limits.
+
+  - ✗ `Worst Practice:` Ignoring data limits and continuing high usage.
   
 <br>
 
-- **Deleting repositories if necessary.**  
-  We also have the right to delete your repositories if they are causing too much strain on our system, but we will give you notice before doing this.
-  - *Good Example:* Keeping your repositories within reasonable limits to avoid issues.
-  - *Bad Example:* Not managing your repository size and risking deletion.
+### 9.3 ‣ Deleting repositories if necessary
+  GitHub also have the right to delete your repositories if they are causing too much strain on GitHub system, but they will give you notice before doing this.
+  - ✓ `Best Practice :` Keeping your repositories within reasonable limits to avoid issues.
+
+  - ✗ `Worst Practice:` Not managing your repository size and risking deletion.
   
 <br>
 
-- **Learn about data use.**  
-  For help on how to use large files in your repositories, check out "About large files on GitHub."  
+### 9.4 ‣ Learn about data use 
+  For help on how to use large files in your repositories, check out "[About large files on GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)"  
   For details on specific data limits for features, see the GitHub Additional Product Terms.
   
+
+<hr>
+
 <br>
+
 
 
 
